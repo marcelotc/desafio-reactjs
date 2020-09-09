@@ -6,6 +6,7 @@ Olá, meu nome é Marcela, faço parte do RH da minha empresa de desenvolvimento
 
 ## Informações
 - Utilizar a api do github
+- Prazo final 11/09/2020 - 18h
 
 ## Requisitos
 - ReactJS
