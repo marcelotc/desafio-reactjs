@@ -10,7 +10,7 @@ Olá, meu nome é Marcela, faço parte do RH da minha empresa de desenvolvimento
 ## Requisitos
 - ReactJS
 - Redux
-- Async Storage
+- Local Storage
 - Hooks
 - Styled-Components
 
